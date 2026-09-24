@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ebrahim 👋
 
-<!--
-**ebrahimelnemr/ebrahimelnemr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Business Information Systems student | DEPI-certified
 
-Here are some ideas to get you started:
+I turn raw data into clear dashboards and business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+Excel (Power Query, PivotTables) · SQL · Python · Power BI · Tableau
+
+## 🎓 Certification
+Digital Egypt Pioneers Initiative (DEPI) – Data Analyst Specialist (Nov 2025 – Jul 2026)
+
+## 📫 Contact
+[LinkedIn](https://linkedin.com/in/ebrahiam-elnemr) · ebrahimelnemr691@gmail.com
